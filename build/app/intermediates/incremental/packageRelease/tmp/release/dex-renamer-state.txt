@@ -1,0 +1,4 @@
+#Tue Mar 19 00:54:16 IRST 2019
+base.0=/home/ali/Desktop/Flutter/Project/Learn/YouTube/Raja_Yogan/2)UI/cackes_catalog/cackes_catalog/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
